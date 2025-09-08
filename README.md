@@ -1,15 +1,5 @@
 # Blockbuster Movie Database
 
-**Author**
-
-Sebastian Hsiao
-
-[![GitHub](https://img.shields.io/badge/GitHub-spacebakery-blue.svg)](https://github.com/spacebakery)
-
-**Date**
-
-2025-05-01
-
 ## Description
 
 Blockbuster Movie Database is a Python-based project that allows users to manage a database of movies. The project includes classes for `Blockbuster`, `Movie`, and `User`, which enable users to add, remove, and borrow movies.
@@ -17,8 +7,6 @@ Blockbuster Movie Database is a Python-based project that allows users to manage
 ## Table of Contents
 
 - [Blockbuster Movie Database](#blockbuster-movie-database)
-      - [Author](#author)
-      - [Date](#date)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
@@ -26,6 +14,7 @@ Blockbuster Movie Database is a Python-based project that allows users to manage
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
+  - [Author](#author)
   - [License](#license)
 
 ## Getting Started
@@ -58,6 +47,14 @@ To get started with Blockbuster Movie Database, follow these steps:
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to Blockbuster Movie Database, please fork the repository and submit a pull request.
+
+## Author
+
+Sebastian Hsiao
+
+[![GitHub](https://img.shields.io/badge/GitHub-journilab-blue.svg)](https://github.com/journilab)
+
+**Date:** 2025-05-01
 
 ## License
 
