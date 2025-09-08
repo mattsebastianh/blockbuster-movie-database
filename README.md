@@ -50,7 +50,7 @@ Contributions are welcome! If you'd like to contribute to Blockbuster Movie Data
 
 ## Author
 
-Sebastian Hsiao
+M. Sebastian Hsiao
 
 [![GitHub](https://img.shields.io/badge/GitHub-journilab-blue.svg)](https://github.com/journilab)
 
