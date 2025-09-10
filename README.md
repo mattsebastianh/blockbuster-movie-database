@@ -1,52 +1,42 @@
 # Blockbuster Movie Database
 
-## Description
-
-Blockbuster Movie Database is a Python-based project that allows users to manage a database of movies. The project includes classes for `Blockbuster`, `Movie`, and `User`, which enable users to add, remove, and borrow movies.
-
-## Table of Contents
-
-- [Blockbuster Movie Database](#blockbuster-movie-database)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Getting Started](#getting-started)
-  - [Features](#features)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
-
-## Getting Started
-
-To get started with Blockbuster Movie Database, follow these steps:
-
-1. Clone the repository: `git clone [URL]`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the application: `python blockbuster.py`
+Blockbuster is a Python project for managing a simple movie database. It allows users to add, search, and manage movie records efficiently.
 
 ## Features
-
-- Add movies to the database
-- Remove movies from the database
-- Borrow movies
-- Return movies
-- View movie details
+- Add new movies with details (title, year, genre, etc.)
+- Search for movies by title or other attributes
+- List all movies in the database
+- Update or delete movie records
 
 ## Installation
-
-- Python 3.x
-- pip
+1. Clone the repository:
+   ```bash
+   git clone <repository_url>
+   ```
+2. (Optional) Create and activate a virtual environment:
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
+3. Install dependencies (if any):
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Usage
+Run the main script:
+```bash
+python blockbuster.py
+```
 
-- Create a new movie: `movie = Movie("Movie Title", 2022, 120)`
-- Add a movie to the database: `blockbuster.add_movie(movie)`
-- Borrow a movie: `user.borrow_movie(blockbuster, "Movie Title")`
+## Testing
+Unit tests are provided in the `tests/` directory. To run tests:
+```bash
+pytest tests/
+```
 
 ## Contributing
-
-Contributions are welcome! If you'd like to contribute to Blockbuster Movie Database, please fork the repository and submit a pull request.
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-
-Blockbuster Movie Database is licensed under the MIT License.
+This project is licensed under the terms of the LICENSE file in this repository. See [LICENSE](LICENSE) for details.
