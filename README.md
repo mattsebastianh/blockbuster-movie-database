@@ -14,14 +14,13 @@ Blockbuster Movie Database is a Python-based project that allows users to manage
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
-  - [Author](#author)
   - [License](#license)
 
 ## Getting Started
 
 To get started with Blockbuster Movie Database, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/spacebakery/blockbuster-movie-database.git`
+1. Clone the repository: `git clone [URL]`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the application: `python blockbuster.py`
 
@@ -47,14 +46,6 @@ To get started with Blockbuster Movie Database, follow these steps:
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to Blockbuster Movie Database, please fork the repository and submit a pull request.
-
-## Author
-
-M. Sebastian Hsiao
-
-[![GitHub](https://img.shields.io/badge/GitHub-journilab-blue.svg)](https://github.com/journilab)
-
-**Date:** 2025-05-01
 
 ## License
 
